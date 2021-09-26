@@ -1,1 +1,1 @@
-# Customer-Sgmentation-Using-K-Means-Clustering-With-Python
+# Customer-Segmentation-Using-K-Means-Clustering-With-Python
